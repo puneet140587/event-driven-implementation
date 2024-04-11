@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/event-driven-implementation.iml" filepath="$PROJECT_DIR$/.idea/event-driven-implementation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-ms/order-ms.iml" filepath="$PROJECT_DIR$/order-ms/order-ms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payment-ms/payment-ms.iml" filepath="$PROJECT_DIR$/payment-ms/payment-ms.iml" />
+    </modules>
+  </component>
+</project>
